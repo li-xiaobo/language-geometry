@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709366.svg)](https://doi.org/10.5281/zenodo.20709366)
+
 # Language Geometry: A Unified Geometric Framework for Large Language Models
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
