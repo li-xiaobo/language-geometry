@@ -107,3 +107,16 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@software{Li_Language_Geometry_A_2026,
+  author = {Li, Xiaobo},
+  title = {Language Geometry: A Unified Geometric Framework for Understanding Large Language Models},
+  year = {2026},
+  doi = {10.5281/zenodo.20709366},
+  url = {https://github.com/li-xiaobo/language-geometry}
+}
