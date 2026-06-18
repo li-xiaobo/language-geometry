@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20709366.svg)](https://doi.org/10.5281/zenodo.20709366)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20744075.svg)](https://doi.org/10.5281/zenodo.20744075)
 
 # Language Geometry: A Unified Geometric Framework for Large Language Models
 
@@ -117,6 +117,6 @@ If you find this work useful, please cite:
   author = {Li, Xiaobo},
   title = {Language Geometry: A Unified Geometric Framework for Understanding Large Language Models},
   year = {2026},
-  doi = {10.5281/zenodo.20709366},
+  doi = {10.5281/zenodo.20744075},
   url = {https://github.com/li-xiaobo/language-geometry}
 }
